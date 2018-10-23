@@ -51,20 +51,20 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Natalia Diaz-Rodriguez"
+  role = "Assistant Professor of Artificial Intelligence"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "ENSTA ParisTech and INRIA Flowers Team", url = "https://flowers.inria.fr/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  email = "diaz.rodriguez.natalia@gmail.com"
+  address = ""
+  #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   phone = "888 888 88 88"
   skype = "echo123"
   telegram = ""
@@ -98,7 +98,7 @@ enableGitInfo = false
   # SITE SETUP
 
   # Color theme.
-  #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
+  #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
   color_theme = "default"
 
   # Font style.
@@ -112,11 +112,11 @@ enableGitInfo = false
   sharing_image = ""
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = ""
+  twitter = "NataliaDiazRodr"
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-  logo = ""
+  logo = "static/img/logoENSTA"
 
   # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
@@ -217,14 +217,7 @@ enableGitInfo = false
     #   1 = Detailed
     #   2 = APA
     #   3 = MLA
-    #   4 = Stream
-    publication_format = 4
-
-    # Talk list format.
-    #   0 = Simple
-    #   1 = Detailed
-    #   2 = Stream
-    talk_format = 2
+    publication_format = 3
 
   # Social/Academic Networking
   #
@@ -298,6 +291,11 @@ enableGitInfo = false
   name = "Projects"
   url = "#projects"
   weight = 4
+
+[[menu.main]]
+  name = "Teaching"
+  url = "#teaching"
+  weight = 5
 
 [[menu.main]]
   name = "Contact"
