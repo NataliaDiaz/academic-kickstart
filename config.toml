@@ -6,10 +6,10 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://nataliadiaz.github.io/"
+baseurl = "/"
 
 # Title of your site
-title = "Personal web"
+title = "Academic"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -52,21 +52,21 @@ enableGitInfo = false
 
   # Your details.
   name = "Natalia Diaz Rodriguez"
-  role = "Professor of Artificial Intelligence"
+  role = "Assistant Professor, Computer Science and Systems Engineering (U2IS) and INRIA Flowers"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "ENSTA ParisTech", url = "https://www.ensta-paristech.fr/" },{ name = "INRIA Flowers Team", url = "https://flowers.inria.fr/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  email = "diaz.rodriguez.natalia@gmail.com"
+  address = "828, boulevard des Maréchaux 91762 PALAISEAU CEDEX, France"
+  #office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  #phone = "888 888 88 88"
+  skype = "nataluxy888"
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
@@ -99,7 +99,7 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "default"
+  color_theme = "cupcake"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -112,11 +112,11 @@ enableGitInfo = false
   sharing_image = ""
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = ""
+  twitter = "NataliaDiazRodr"
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-  logo = ""
+  logo = "static/img/logoENSTA"
 
   # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
@@ -252,7 +252,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fab"
-    link = "//twitter.com/GeorgeCushen"
+    link = "//twitter.com/NataliaDiazRodr"
 
   [[params.social]]
     icon = "google-scholar"
@@ -262,7 +262,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "github"
     icon_pack = "fab"
-    link = "//github.com/gcushen"
+    link = "//github.com/NataliaDiaz"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -298,11 +298,6 @@ enableGitInfo = false
   name = "Projects"
   url = "#projects"
   weight = 4
-
-[[menu.main]]
-  name = "Tutorials"
-  url = "/tutorial/"
-  weight = 5
 
 [[menu.main]]
   name = "Contact"
