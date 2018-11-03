@@ -48,5 +48,5 @@ weight = 5
 
 Natalia is Assistant Professor of Artificial Intelligence at the Autonomous Systems and Robotics Lab (U2IS) at ENSTA ParisTech. She also belongs to the INRIA Flowers team on developmental robotics. Her research interests include deep, reinforcement and unsupervised learning, (state) representation learning, explainable AI and AI for social good. She is working on open-ended learning and continual learning for computer vision applications of robotics, and has also background on knowledge engineering (semantic web, ontologies and knowledge graphs). 
 
-# Internships/Postdocs
-Wanted on diverse topics: State representation learning, Deep and Reinforcement Learning, Explainable AI, and Computer Vision for Autonomous Vehicles.
+# Interns/Postdocs wanted
+on diverse topics: State representation learning, Deep and Reinforcement Learning, Explainable AI, and Computer Vision for Autonomous Vehicles.

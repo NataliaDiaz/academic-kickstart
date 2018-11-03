@@ -277,6 +277,11 @@ enableGitInfo = true
     icon_pack = "fab"
     link = "//facebook.com/nataliadr"
 
+  [[params.social]]
+    icon = "orcid"
+    icon_pack = "fab"
+    link = "https://orcid.org/0000-0003-3362-9326"
+
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   # [[params.social]]
@@ -303,13 +308,13 @@ enableGitInfo = true
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Projects"
+  url = "#projects"
   weight = 3
 
 [[menu.main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Posts"
+  url = "#posts"
   weight = 4
 
 [[menu.main]]
