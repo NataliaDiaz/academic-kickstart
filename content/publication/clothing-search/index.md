@@ -3,8 +3,8 @@ title = "S-RL Toolbox"
 date = 2013-07-01T00:00:00
 draft = false
 
-# Authors. Comma separated list, e.g. `["Antonin Raffin", "Ashley Hill", "René Traoré", "Timothée Lesort", "Natalia Díaz-Rodríguez", "David Filliat"]`.
-authors = ["GA Cushen", "MS Nixon"]
+# Authors. Comma separated list, e.g. `[]`.
+authors = ["Antonin Raffin", "Ashley Hill", "René Traoré", "Timothée Lesort", "Natalia Díaz-Rodríguez", "David Filliat"]
 
 # Publication type.
 # Legend:
