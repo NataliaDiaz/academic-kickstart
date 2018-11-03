@@ -11,30 +11,42 @@ weight = 5
 [interests]
   interests = [
     "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Deep learning",
+    "Reinforcement Learning",
+    "Continual Learning",
+    "Open-ended Learning",
+    "Symbolic AI",
+    "Explainable AI",
+    "AI for Good",
+    "Robotics"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "Doctoral diploma on Innovation and Entrepreneurship "
+  institution = "European Institute of Technology (EIT Digital) (Sweden, France, Finland)"
+  year = 2017
+
+[[education.courses]]
+  course = "Double PhD in Artificial Intelligence"
+  institution = "Abo Akademi University, Turku (Finland) and University of Granada (Spain)"
+  year = 2015
+
+[[education.courses]]
+  course = "M Sc. Soft Computing and Intelligent Systems"
+  institution = "University of Granada (Spain)"
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "M Sc. Computer Engineering"
+  institution = "University of Granada (Spain)"
+  year = 2010
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Natalia is Assistant Professor of Artificial Intelligence at the Autonomous Systems and Robotics Lab (U2IS) at ENSTA ParisTech. She also belongs to the INRIA Flowers team on developmental robotics. Her research interests include deep, reinforcement and unsupervised learning, (state) representation learning, explainable AI and AI for social good. She is working on open-ended learning and continual learning for computer vision applications of robotics, and has also background on knowledge engineering (semantic web, ontologies and knowledge graphs). 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+# Internships/Postdocs
+Wanted on diverse topics: State representation learning, Deep and Reinforcement Learning, Explainable AI, and Computer Vision for Autonomous Vehicles.
