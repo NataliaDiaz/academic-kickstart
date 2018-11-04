@@ -15,14 +15,11 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+- [IN104](http://perso.ensta-paristech.fr/~tbernard/Ens/IN104ProgDet.html): Computer Science Project (Projet Informatique)
 
-I am a teaching instructor for the following courses at University X:
+- [IA301](https://perso.telecom-paristech.fr/bloch/OptionIA/Logics-SymbolicAI.html) (Telecom ParisTech): Logics and Symbolic Artificial Intelligence (Logique et IA symbolique)  
 
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+
+Teaching assistant at ENSTA ParisTech for:
+
+- [ROB313](http://perso.ensta-paristech.fr/~manzaner/Cours/ROB313/): Computer vision for autonomous systems (Perception pour les Systèmes Autonomes)  

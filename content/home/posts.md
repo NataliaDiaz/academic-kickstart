@@ -27,3 +27,8 @@ count = 5
 list_format = 2
 +++
 
+
+[What I learned at the PRAIRIE PAISS Summer school](https://medium.com/@NataliaDiazRodr/paiss-prairie-ai-summer-school-digest-ec3fbf2453fd), Grenoble, July 2018.
+
+
+[Intrinsic Motivation and Open Ended Learning (IMOL)](https://medium.com/@NataliaDiazRodr/intrinsic-motivation-and-open-ended-learning-e06a7b559d98): Learnings from the 3rd IMOL (Intrinsic Motivation and Open Ended Learning) Workshop Rome 4-6 Oct 2017.

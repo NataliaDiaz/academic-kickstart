@@ -52,22 +52,22 @@ enableGitInfo = true
 
   # Your details.
   name = "Natalia Díaz Rodríguez"
-  role = "Assistant Professor, Computer Science and Systems Engineering (U2IS), INRIA Flowers Team"
+  role = "Assistant Professor (Enseignant-Chercheur)"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "ENSTA ParisTech", url = "https://www.ensta-paristech.fr/" },{ name = "Autonomous Systems and Robotics", url = "http://asr.ensta-paristech.fr/" }, { name = "INRIA Flowers Team", url = "https://flowers.inria.fr/" } ]
+  organizations = [ { name = "ENSTA ParisTech (Computer Science and Systems Engineering -U2IS)", url = "https://www.ensta-paristech.fr/" },{ name = "Autonomous Systems and Robotics", url = "http://asr.ensta-paristech.fr/" }, { name = "INRIA Flowers Team", url = "https://flowers.inria.fr/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "diaz.rodriguez.natalia@gmail.com"
-  address = "828, boulevard des Maréchaux 91762 PALAISEAU CEDEX, France"
+  email = "diaz [dot] rodriguez [dot] natalia [at] gmail [dot] com"
+  #address = "828, boulevard des Maréchaux 91762 PALAISEAU CEDEX, France"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
   skype = "nataluxy888"
-  telegram = "NataliaDiazRodr"
+  #telegram = "NataliaDiazRodr"
   keybase = ""  # Your keybase.io username.
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
@@ -106,17 +106,17 @@ enableGitInfo = true
   font = "default"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
-  description = ""
+  description = "Webpage Natalia Díaz Rodríguez"
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-  sharing_image = ""
+  sharing_image = "portrait.jpg"
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
   twitter = "NataliaDiazRodr"
 
-  # Diplay a logo in navigation bar rather than title (optional).
+  # Display a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-  logo = "static/img/logoENSTA"
+  logo = ""   #portrait.jpg"
 
   # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
@@ -135,7 +135,7 @@ enableGitInfo = true
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = false
+  math = true
 
   # Highlight.js options
   #   highlight
@@ -218,7 +218,7 @@ enableGitInfo = true
     #   2 = APA
     #   3 = MLA
     #   4 = Stream
-    publication_format = 4
+    publication_format = 3
 
     # Talk list format.
     #   0 = Simple
@@ -227,21 +227,14 @@ enableGitInfo = true
     talk_format = 2
 
   # Social/Academic Networking
-  #
   # Icon pack "fab" includes the following social network icons:
-  #
   #   twitter, weibo, linkedin, github, facebook, pinterest, google-plus,
   #   youtube, instagram, soundcloud
-  #
   #   For email icon, use "fas" icon pack, "envelope" icon, and
   #   "mailto:your@email.com" as the link.
-  #
   #   Full list: https://fontawesome.com/icons
-  #
   # Icon pack "ai" includes the following academic icons:
-  #
   #   cv, google-scholar, arxiv, orcid, researchgate, mendeley
-  #
   #   Full list: https://jpswalsh.github.io/academicons/
 
   [[params.social]]
@@ -282,6 +275,11 @@ enableGitInfo = true
     icon_pack = "fab"
     link = "https://orcid.org/0000-0003-3362-9326"
 
+  [[params.social]]
+    icon = "medium"
+    icon_pack = "fab"
+    link = "//medium.com/@nataliadiazrodr"
+
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   # [[params.social]]
@@ -303,19 +301,24 @@ enableGitInfo = true
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
+  name = "Projects"
+  url = "#projects"
   weight = 2
 
 [[menu.main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Publications"
+  url = "#publications_selected"
   weight = 3
+
+[[menu.main]]
+  name = "Teaching"
+  url = "#teaching"
+  weight = 4
 
 [[menu.main]]
   name = "Posts"
   url = "#posts"
-  weight = 4
+  weight = 5
 
 [[menu.main]]
   name = "Contact"
@@ -346,10 +349,10 @@ enableGitInfo = true
     show_logo = false
 
 # Taxonomies.
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-  publication_type = "publication_types"
+#[taxonomies]
+ # tag = "tags"
+ # category = "categories"
+ # publication_type = "publication_types"
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.

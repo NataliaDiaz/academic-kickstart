@@ -1,10 +1,10 @@
 +++
-title = "S-RL Toolbox"
+title = "S-RL Toolbox: Environments, Datasets and Evaluation Metrics for State Representation Learning"
 date = 2013-07-01T00:00:00
 draft = false
 
-# Authors. Comma separated list, e.g. `[]`.
-authors = ["Antonin Raffin", "Ashley Hill", "René Traoré", "Timothée Lesort", "Natalia Díaz-Rodríguez", "David Filliat"]
+# Authors. Comma separated list, e.g. `["Antonin Raffin", "Ashley Hill", "René Traoré", "Timothée Lesort", "Natalia Díaz-Rodríguez", "David Filliat"]`.
+authors = ["GA Cushen", "MS Nixon"]
 
 # Publication type.
 # Legend:
