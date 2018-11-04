@@ -276,10 +276,10 @@ enableGitInfo = true
     icon = "facebook"
     icon_pack = "fab"
     link = "//facebook.com/nataliadr"
-  [[params.social]]
-    icon = "instagram"
-    icon_pack = "fab"
-    link = "//instagram.com/NataliaDiazRodr"
+ # [[params.social]]
+  #  icon = "instagram"
+  #  icon_pack = "fab"
+  #  link = "//instagram.com/NataliaDiazRodr"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
