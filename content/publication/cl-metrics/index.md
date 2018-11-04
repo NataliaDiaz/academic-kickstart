@@ -18,15 +18,15 @@ authors = ["Natalia Díaz-Rodríguez", "Vincenzo Lomonaco", "David Filliat", "Da
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Signal Image Technology & Internet Systems (SITIS)*, IEEE."
-#publication_short = "In *SITIS*"
+publication = "In *Arxiv*."
+#publication_short = "In *Arxiv*"
 
 # Abstract and optional shortened version.
 abstract = "Continual learning consists of algorithms that learn from a stream of data/tasks continuously and adaptively thought time, enabling the incremental development of ever more complex knowledge and skills. The lack of consensus in evaluating continual learning algorithms and the almost exclusive focus on forgetting motivate us to propose a more comprehensive set of implementation independent metrics accounting for several factors we believe have practical implications worth considering in the deployment of real AI systems that learn continually: accuracy or performance over time, backward and forward knowledge transfer, memory overhead as well as computational efficiency. Drawing inspiration from the standard Multi-Attribute Value Theory (MAVT) we further propose to fuse these metrics into a single score for ranking purposes and we evaluate our proposal with five continual learning strategies on the iCIFAR-100 continual learning benchmark."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = yes
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -38,10 +38,10 @@ projects = ["dream", "deep-learning"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["continual-learning", "deep-learning"]
 
 # Links (optional).
-url_pdf = "https://arxiv.org/pdf/1810.13166.pdf
+url_pdf = "https://arxiv.org/pdf/1810.13166.pdf"
 url_preprint = "https://arxiv.org/abs/1810.13166"
 url_code = ""
 url_dataset = ""
@@ -72,4 +72,4 @@ math = true
   focal_point = ""
 +++
 
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+<!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. -->

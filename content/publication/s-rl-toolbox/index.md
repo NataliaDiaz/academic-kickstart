@@ -43,12 +43,12 @@ tags = ["DREAM-Project", "deep-learning"]
 url_pdf = "https://arxiv.org/pdf/1809.09369.pdf"
 url_preprint = "https://arxiv.org/abs/1809.09369"
 url_code = "https://github.com/araffin/robotics-rl-srl"
-url_dataset = "#"
+url_dataset = ""
 url_project = "https://s-rl-toolbox.readthedocs.io/en/latest/guide/real_robots.html"
-url_slides = "#"
+url_slides = ""
 url_video = "https://www.youtube.com/watch?list=PLFxFrY0V2V0XbA0yW-MwFHLsK5mHOQ1mh&v=qNsHMkIsqJc"
-url_poster = "#"
-url_source = "#"
+url_poster = ""
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -71,4 +71,5 @@ math = true
   focal_point = ""
 +++
 
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+<!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+ -->
