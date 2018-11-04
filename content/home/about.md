@@ -46,7 +46,16 @@ weight = 5
 
 # Biography
 
-Natalia is Assistant Professor of Artificial Intelligence at the Autonomous Systems and Robotics Lab (U2IS) at ENSTA ParisTech. She also belongs to the INRIA Flowers team on developmental robotics. Her research interests include deep, reinforcement and unsupervised learning, (state) representation learning, explainable AI and AI for social good. She is working on open-ended learning and continual learning for computer vision applications of robotics, and has also background on knowledge engineering (semantic web, ontologies and knowledge graphs). 
+Natalia is Assistant Professor of Artificial Intelligence at the Autonomous Systems and Robotics Lab (U2IS) at ENSTA ParisTech. She also belongs to the INRIA Flowers team on developmental robotics. Her research interests include deep, reinforcement and unsupervised learning, (state) representation learning, explainable AI and AI for social good. She is working on open-ended learning and continual/lifelong learning for applications in computer vision and robotics. Her background is on knowledge engineering (semantic web, ontologies and knowledge graphs) and is interested in neural-symbolic approaches to practical applications of AI. 
 
-# Interns/Postdocs wanted
-on diverse topics: State representation learning, Deep and Reinforcement Learning, Explainable AI, and Computer Vision for Autonomous Vehicles.
+# Interns, PhD students and Postdocs wanted
+On diverse topics: State representation learning, Deep and Reinforcement Learning, Explainable AI, and Computer Vision for Robotics/ autonomous systems/ vehicles. Interested? Send a single pdf with CV+grades.
+
+
+# News
+
+*Intelligent Drone Swarm for Search and Rescue Operations at Sea* Paper accepted at the NIPS workshop on AI for Good, 2018.
+
+I will be co-organizing the ECML PKDD 2019 Continual Learning Workshop.
+
+

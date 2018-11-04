@@ -26,3 +26,5 @@ exclude_selected = false
 
 [State Representation Learning: an Overview](https://www.youtube.com/watch?v=RwLTrQUyDvA) Talk at INRIA Flowers Deep RL workshop 4/4/2018.
 
+
+[2min Spotlight DREAM Project](https://twitter.com/robotsthatdream/status/1014133250497875973)

@@ -12,7 +12,7 @@ summary = "S-RL Toolbox: Reinforcement Learning (RL) and State Representation Le
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["Deep Learning", "Machine Learning", "Reinforcement Learning",
-        "State Representation Learning", "Python", "Robotics"]
+        "State Representation Learning", "Python", "Robotics", "Benchmarks"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://github.com/araffin/robotics-rl-srl"
@@ -38,6 +38,9 @@ Github repository: https://github.com/araffin/robotics-rl-srl
 Documentation: https://s-rl-toolbox.readthedocs.io
 
 Paper: https://arxiv.org/abs/1809.09369
+
+Associated Stable Baselines Medium post: https://towardsdatascience.com/stable-baselines-a-fork-of-openai-baselines-reinforcement-learning-made-easy-df87c4b2fc82?source=user_profile---------2------------------
+
 
 ## Main Features
 

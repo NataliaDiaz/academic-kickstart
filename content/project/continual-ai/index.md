@@ -6,11 +6,11 @@ title = "Continual AI"
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Continual AI"
+summary = "Continual AI is an Open Community of Researchers and Enthusiasts on Continual/Lifelong Learning and AI."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning", "continual-learning", "lifelong-learning"]`
-tags = ["Deep Learning"]
+tags = ["machine-learning", "deep-learning", "continual-learning", "lifelong-learning"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "http://continualai.org/"
@@ -26,4 +26,5 @@ external_link = "http://continualai.org/"
   focal_point = "Smart"
 +++
 
-Continual AI is an open source community of researcher enthusiasts around deep learning and continual learning.
+Continual AI is an Open Community of Researchers and Enthusiasts on
+Continual/Lifelong Learning and AI.

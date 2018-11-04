@@ -243,11 +243,6 @@ enableGitInfo = true
     link = "mailto:diaz.rodriguez.natalia@gmail.com"
 
   [[params.social]]
-    icon = "twitter"
-    icon_pack = "fab"
-    link = "//twitter.com/NataliaDiazRodr"
-
-  [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
     link = "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F5eTM5VWuzuB9DsmUGFxq1kg0NxCbMCBslUH5JfZdYqetmM6_fZqr-0Lncgq_n0VByl7GAoT-iLiGesnh66gA6ftOboTOlSjx_XEvsXdgIANHQ0mqg&user=aia6ZgYAAAAJ"
@@ -257,18 +252,15 @@ enableGitInfo = true
     icon_pack = "fab"
     link = "//github.com/NataliaDiaz"
 
-  [[params.social]]
-    icon = "instagram"
+[[params.social]]
+    icon = "twitter"
     icon_pack = "fab"
-    link = "//instagram.com/NataliaDiazRodr"
+    link = "//twitter.com/NataliaDiazRodr"
+
   [[params.social]]
     icon = "linkedin"
     icon_pack = "fab"
     link = "//linkedin.com/in/Nataliadr"
-  [[params.social]]
-    icon = "facebook"
-    icon_pack = "fab"
-    link = "//facebook.com/nataliadr"
 
   [[params.social]]
     icon = "orcid"
@@ -279,6 +271,15 @@ enableGitInfo = true
     icon = "medium"
     icon_pack = "fab"
     link = "//medium.com/@nataliadiazrodr"
+
+  [[params.social]]
+    icon = "facebook"
+    icon_pack = "fab"
+    link = "//facebook.com/nataliadr"
+  [[params.social]]
+    icon = "instagram"
+    icon_pack = "fab"
+    link = "//instagram.com/NataliaDiazRodr"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
